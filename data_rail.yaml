@@ -1,0 +1,14 @@
+path: ../datasets/rail_crossing_v1
+train: images/train
+val: images/val
+
+nc: 7
+names: [
+  'barrier_down',
+  'barrier_up',
+  'rail_zone',
+  'car',
+  'train',
+  'obstacles',
+  'person'
+]

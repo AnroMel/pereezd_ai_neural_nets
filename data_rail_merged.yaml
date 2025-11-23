@@ -1,0 +1,14 @@
+# data_rail_merged.yaml
+
+train: ../dataset_merge/images/train
+val: ../dataset_merge/images/val
+
+nc: 7
+names:
+  - barrier_down
+  - barrier_up
+  - rail_zone
+  - car
+  - train
+  - obstacles
+  - person
